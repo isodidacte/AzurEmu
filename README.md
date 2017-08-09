@@ -20,7 +20,7 @@ Cet émulateur a été débugs dans l'esprit d'un ankalike hard tel l'officiel 1
 
 Le serveur ayant eu une fin prématurée, il reste beaucoup de bugs, n'hésitez pas à contribuez à son devellopement avec des commits pour faire avancer l'émulation 1.29^^
 
-Voilà le trello du servbeur pour avoir une idée précise de ce qu'il en ai:
+Voilà le trello du serveur pour avoir une idée précise de ce qu'il en ai:
 https://trello.com/b/owFTdN8H/azur-project
 
 #Crédits:
